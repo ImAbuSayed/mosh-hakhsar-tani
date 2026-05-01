@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي نور عيني في دجى الليل
+> حبك في دمي يجري كأنه سيل
+> أنت روحي وأنت عمري بلا دليل
+> شوقي لك يكبر في قلبي كل ميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
