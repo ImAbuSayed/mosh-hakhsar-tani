@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-hakhsar-tani/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Mosh Hakhsar Tani](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
