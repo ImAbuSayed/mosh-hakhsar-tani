@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mosh Hakhsar Tani
+
+This log tracks the cryptographic history and versioning for the song **Mosh Hakhsar Tani** (mosh-hakhsar-tani).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T00:06:37.540170 | `v1` | `63d2f4ae4f003771bb95c30f69b14f99ccb9f6a45ba9bbb92a1416ddcbb62a4b` | `5fa8ffe2267c7d04f553ee11b11cb0eb80f4852067591d243925c14010abcb02` | `2026-05-09_mosh-hakhsar-tani-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
